@@ -64,7 +64,7 @@ I share insights about AI and data on my [Substack newsletter](https://doneyli.s
 
 ---
 
-*"The best way to predict the future is to build it"* - Let's build something amazing together! 🚀
+*"The best way to predict the future is to build it"* - Let's build something amazing together! 
 
 ![Profile Views](https://komarev.com/ghpv/?username=doneyli&color=brightgreen)
 ![GitHub Followers](https://img.shields.io/github/followers/doneyli?label=Follow&style=social)
