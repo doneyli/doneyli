@@ -26,6 +26,11 @@ A collaborative initiative leveraging GenAI and Snowflake's data platform to opt
 - **Tech:** Snowflake Cortex, Python, GenAI
 - **Impact:** Streamlined emergency response coordination
 
+#### 🤖 [Snowflake MCP OpenAI Integration](https://github.com/doneyli/snowflake-mcp-openai)
+Innovative integration connecting Snowflake with OpenAI's Model Context Protocol (MCP) for seamless AI-powered data operations.
+- **Tech:** Python, Snowflake, OpenAI MCP, AI Integration
+- **Innovation:** Bridging enterprise data platforms with cutting-edge AI protocols
+
 #### 📊 [Snowflake Demos & Tutorials](https://github.com/doneyli/snowflake-demo-streamlit)
 Collection of Streamlit applications showcasing Snowflake capabilities and best practices.
 - **Tech:** Streamlit, Snowflake, Python
