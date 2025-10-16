@@ -1,51 +1,35 @@
 # Hi there! 👋 I'm Doneyli De Jesus
 
-## 🚀 AI Architect @ Snowflake | Turning Data into Intelligence
+## 🚀 AI Architect @ ClickHouse | Turning Data into Intelligence
 
 With over 20 years in Data and AI, I'm passionate about crafting tailored AI solutions that transform how organizations operate. I lead strategic GenAI and ML initiatives while helping businesses unlock the full potential of their data.
 
 ### 🔧 What I Do
 - **AI Strategy & Implementation** - Design and deploy enterprise-scale AI solutions
-- **Data Architecture** - Build robust data pipelines and platforms using Snowflake
+- **Data Architecture** - Build robust data pipelines and platforms using ClickHouse
 - **Technical Advisory** - Guide organizations through their AI transformation journey
 - **Community Building** - Mentor data professionals and share knowledge through speaking engagements
 
 ### 🛠️ Tech Stack
 ```
-Languages:     Python, SQL, Scala, R
+Languages:     Python, SQL
 Cloud:         Snowflake, AWS, Azure, GCP
-AI/ML:         TensorFlow, PyTorch, Snowflake Cortex, OpenAI
+AI/ML:         OpeanAI, Claude, Snowflake Cortex, TensorFlow, PyTorch
 Data Tools:    Apache Spark, Airflow, dbt, Streamlit
 DevOps:        Docker, Kubernetes, CI/CD, Git
 ```
 
 ### 🌟 Featured Projects
 
-#### 🤖 [Snowflake MCP OpenAI Integration](https://github.com/doneyli/snowflake-mcp-openai)
-Innovative integration connecting Snowflake with OpenAI's Model Context Protocol (MCP) for seamless AI-powered data operations.
-- **Tech:** Python, Snowflake, OpenAI MCP, AI Integration
-- **Innovation:** Bridging enterprise data platforms with cutting-edge AI protocols
-
-#### 🌪️ [Hurricane Response AI System](https://github.com/doneyli/snowflake-cortex-hurricane-response)
-A collaborative initiative leveraging GenAI and Snowflake's data platform to optimize disaster response efforts. Demonstrates real-world AI application for social good.
-- **Tech:** Snowflake Cortex, Python, GenAI
-- **Impact:** Streamlined emergency response coordination
-
-#### 📊 [Snowflake Demos & Tutorials](https://github.com/doneyli/snowflake-demo-streamlit)
-Collection of Streamlit applications showcasing Snowflake capabilities and best practices.
-- **Tech:** Streamlit, Snowflake, Python
-- **Purpose:** Educational content for the data community
+#### 🤖 [ClickHouse Real-time Analytics w/ Natural Language](https://github.com/doneyli/clickhouse-analytics-demo)
+Real-time analytics demonstration combining ClickHouse's columnar database power with AI-powered natural language querying through local Llama 3 integration.
+- **Tech:** ClickHouse, Python/Flask, Llama 3 (Ollama), Docker, Plotly.js, REST API
+- **Innovation:** Bridges high-performance OLAP analytics with conversational AI, enabling users to query 500K+ events using plain English while streaming live data updates—perfect for showcasing real-time analytics capabilities with an accessible, AI-enhanced interface
 
 ### 📈 Current Focus
 - Exploring cutting-edge GenAI applications in enterprise data platforms
 - Building tools that make AI more accessible to business users
 - Contributing to the data community through open source and education
-
-### 🎯 2025 Goals
-- [ ] Launch 3 new open-source AI tools
-- [ ] Speak at 5+ data conferences
-- [ ] Mentor 10+ data professionals
-- [ ] Publish advanced Snowflake + AI tutorials
 
 ### 📝 Recent Writing
 I share insights about AI and data on my [Substack newsletter](https://doneyli.substack.com/) - real-world experiences from working in AI & Data since 2002.
@@ -57,6 +41,7 @@ I share insights about AI and data on my [Substack newsletter](https://doneyli.s
 - 🎤 [Speaking](https://sessionize.com/doneyli/) - Conference talks and workshops
 
 ### 💡 Fun Facts
+- I'm the only "Doneyli" on the Internet (yes, look it up 😆 )
 - 🏠 Based in Montreal, QC - where great poutine meets great tech!
 - 🎯 20+ years turning coffee into data insights
 - 🌍 Level 6 Google Local Guide with 4,824+ points
@@ -65,6 +50,3 @@ I share insights about AI and data on my [Substack newsletter](https://doneyli.s
 ---
 
 *"The best way to predict the future is to build it"* - Let's build something amazing together! 
-
-![Profile Views](https://komarev.com/ghpv/?username=doneyli&color=brightgreen)
-![GitHub Followers](https://img.shields.io/github/followers/doneyli?label=Follow&style=social)
