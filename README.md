@@ -1,52 +1,62 @@
-# Hi there! 👋 I'm Doneyli De Jesus
+# Hey, I'm Don
 
-## 🚀 AI Architect @ ClickHouse | Turning Data into Intelligence
+## Principal AI Architect @ ClickHouse | Builder | AI-Native
 
-With over 20 years in Data and AI, I'm passionate about crafting tailored AI solutions that transform how organizations operate. I lead strategic GenAI and ML initiatives while helping businesses unlock the full potential of their data.
+I build at the intersection of AI and data infrastructure. 20+ years in the space, from Deutsche Bank trading floors to Snowflake's founding GenAI practice ($0 to $22M ARR), now helping shape the future of real-time AI at ClickHouse.
 
-### 🔧 What I Do
-- **AI Strategy & Implementation** - Design and deploy enterprise-scale AI solutions
-- **Data Architecture** - Build robust data pipelines and platforms using ClickHouse
-- **Technical Advisory** - Guide organizations through their AI transformation journey
-- **Community Building** - Mentor data professionals and share knowledge through speaking engagements
+I live on the bleeding edge where uncertainty is high but so is the reward. I'm AI-native: Claude Code is my daily driver, I architect while AI executes, and I ship things that didn't exist yesterday. Not because it's trendy, but because this is genuinely the most exciting time to be building.
 
-### 🛠️ Tech Stack
+Right now I'm obsessed with: agent architectures, AI observability, real-time data infrastructure, and figuring out what "AI-native engineering" actually looks like in production.
+
+### What I'm Building
+
+I believe the best way to understand a technology is to build with it. My repos reflect what I'm learning and shipping in real time.
+
+#### [Claude Code + Langfuse Observability](https://github.com/doneyli/claude-code-langfuse-template)
+Self-hosted observability for AI coding agents. Born from wanting to actually see what my AI tools were doing under the hood. Wrote about it on Substack, it hit 14K views in 6 days.
+- **Stack:** Python, Shell, Docker, Langfuse, Claude Code
+- **Why it matters:** If you're using AI coding agents without observability, you're flying blind
+
+#### [ClickHouse Agent Skills](https://github.com/ClickHouse/agent-skills) (297+ stars)
+Official agent skills that teach AI coding tools (Claude Code, Cursor, Copilot) ClickHouse best practices. 28 rules covering schema design, query optimization, and data ingestion patterns.
+- **Stack:** JavaScript, TypeScript, Agent Skills framework
+- **Why it matters:** Domain expertise, packaged for the agent era
+
+### Tech Stack
+
 ```
-Languages:     Python, SQL
-Cloud:         Snowflake, AWS, Azure, GCP
-AI/ML:         OpeanAI, Claude, Snowflake Cortex, TensorFlow, PyTorch
-Data Tools:    Apache Spark, Airflow, dbt, Streamlit
-DevOps:        Docker, Kubernetes, CI/CD, Git
+Languages:      Python, TypeScript, SQL, Shell
+AI:             Claude Code, Langfuse, OpenAI, Anthropic API
+Data:           ClickHouse, Snowflake, Apache Spark, dbt
+Infrastructure: Docker, AWS, GCP, Azure, CI/CD
+Building with:  Astro, Flask, Next.js, Streamlit
 ```
 
-### 🌟 Featured Projects
+### Current Focus
 
-#### 🤖 [ClickHouse Real-time Analytics w/ Natural Language](https://github.com/doneyli/clickhouse-analytics-demo)
-Real-time analytics demonstration combining ClickHouse's columnar database power with AI-powered natural language querying through local Llama 3 integration.
-- **Tech:** ClickHouse, Python/Flask, Llama 3 (Ollama), Docker, Plotly.js, REST API
-- **Innovation:** Bridges high-performance OLAP analytics with conversational AI, enabling users to query 500K+ events using plain English while streaming live data updates—perfect for showcasing real-time analytics capabilities with an accessible, AI-enhanced interface
+- Building AI & data infrastructure at ClickHouse
+- Shipping open source tools for AI observability and agent development
+- Writing ["Distilling Data & AI"](https://doneyli.substack.com/) on Substack: practitioner tutorials, not news curation
+- Speaking circuit: TEDx, SaaS North, McGill, and more
+- Leading Montreal's AI community with monthly events
 
-### 📈 Current Focus
-- Exploring cutting-edge GenAI applications in enterprise data platforms
-- Building tools that make AI more accessible to business users
-- Contributing to the data community through open source and education
+### Writing & Speaking
 
-### 📝 Recent Writing
-I share insights about AI and data on my [Substack newsletter](https://doneyli.substack.com/) - real-world experiences from working in AI & Data since 2002.
+I write about what I build and what I learn from enterprise AI deployments. No fluff, no hype, just what actually works.
 
-### 🤝 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/doneyli/) - Professional updates and industry insights
-- 🐦 [Twitter](https://twitter.com/doneyli) - Quick thoughts and tech discussions
-- 📧 [Newsletter](https://doneyli.substack.com/) - Deep dives into AI and data topics
-- 🎤 [Speaking](https://sessionize.com/doneyli/) - Conference talks and workshops
+- [Newsletter](https://doneyli.substack.com/) - "I Built X" tutorials and framework deep-dives
+- [LinkedIn](https://www.linkedin.com/in/doneyli/) - Daily insights on AI and data in production
+- [Twitter](https://twitter.com/doneyli) - Real-time technical commentary
+- [Speaking](https://sessionize.com/doneyli/) - Talks, keynotes, and workshops
 
-### 💡 Fun Facts
-- I'm the only "Doneyli" on the Internet (yes, look it up 😆 )
-- 🏠 Based in Montreal, QC - where great poutine meets great tech!
-- 🎯 20+ years turning coffee into data insights
-- 🌍 Level 6 Google Local Guide with 4,824+ points
-- 🚀 Always excited to collaborate on projects that make a real impact
+### A Few Things About Me
+
+- I'm the only "Doneyli" on the Internet (yes, look it up)
+- Based in Montreal, where great poutine meets great tech
+- TEDx speaker, co-authored an AI book (published 2025)
+- Trilingual: English, Spanish (native), French
+- Constantly learning, constantly building, constantly shipping
 
 ---
 
-*"The best way to predict the future is to build it"* - Let's build something amazing together! 
+*"The best way to predict the future is to build it."*
