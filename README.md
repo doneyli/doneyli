@@ -17,7 +17,7 @@ Self-hosted observability for AI coding agents. Born from wanting to actually se
 - **Stack:** Python, Shell, Docker, Langfuse, Claude Code
 - **Why it matters:** If you're using AI coding agents without observability, you're flying blind
 
-#### [ClickHouse Agent Skills](https://github.com/ClickHouse/agent-skills) (297+ stars)
+#### [ClickHouse Agent Skills](https://github.com/ClickHouse/agent-skills)
 Official agent skills that teach AI coding tools (Claude Code, Cursor, Copilot) ClickHouse best practices. 28 rules covering schema design, query optimization, and data ingestion patterns.
 - **Stack:** JavaScript, TypeScript, Agent Skills framework
 - **Why it matters:** Domain expertise, packaged for the agent era
@@ -38,7 +38,7 @@ Building with:  Astro, Flask, Next.js, Streamlit
 - Shipping open source tools for AI observability and agent development
 - Writing ["Distilling Data & AI"](https://doneyli.substack.com/) on Substack: practitioner frameworks and deep dives, not news curation
 - Speaking circuit: TEDx, SaaS North, McGill, and more
-- AI Circle Montreal community lead (https://www.ai-circle.org/)
+- [AI Circle](https://www.ai-circle.org/) Montreal community lead
 
 ### Writing & Speaking
 
