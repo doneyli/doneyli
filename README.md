@@ -2,9 +2,9 @@
 
 ## Principal AI Architect @ ClickHouse | Builder | AI-Native
 
-I build at the intersection of AI and data infrastructure. 20+ years in the space, from Deutsche Bank trading floors to Snowflake's founding GenAI practice ($0 to $22M ARR), now helping shape the future of real-time AI at ClickHouse.
+I build at the intersection of AI and data infrastructure. 20+ years in the space, from IT Help Desk to one of the founding members of Snowflake's GenAI  GenAI practice ($0 to $100M ARR). Now helping shape the future of real-time AI at ClickHouse.
 
-I live on the bleeding edge where uncertainty is high but so is the reward. I'm AI-native: Claude Code is my daily driver, I architect while AI executes, and I ship things that didn't exist yesterday. Not because it's trendy, but because this is genuinely the most exciting time to be building.
+I live on the bleeding edge where uncertainty is high, but so is the reward. I consider myself AI-native: Claude Code is my daily driver, I architect while AI executes, and I ship things that didn't exist yesterday. Not because it's trendy, but because this is genuinely the most exciting time to be building.
 
 Right now I'm obsessed with: agent architectures, AI observability, real-time data infrastructure, and figuring out what "AI-native engineering" actually looks like in production.
 
@@ -13,7 +13,7 @@ Right now I'm obsessed with: agent architectures, AI observability, real-time da
 I believe the best way to understand a technology is to build with it. My repos reflect what I'm learning and shipping in real time.
 
 #### [Claude Code + Langfuse Observability](https://github.com/doneyli/claude-code-langfuse-template)
-Self-hosted observability for AI coding agents. Born from wanting to actually see what my AI tools were doing under the hood. Wrote about it on Substack, it hit 14K views in 6 days.
+Self-hosted observability for AI coding agents. Born from wanting to actually see what my AI tools were doing under the hood. Wrote about it on Substack, it hit 16K views in 6 days.
 - **Stack:** Python, Shell, Docker, Langfuse, Claude Code
 - **Why it matters:** If you're using AI coding agents without observability, you're flying blind
 
@@ -25,8 +25,8 @@ Official agent skills that teach AI coding tools (Claude Code, Cursor, Copilot) 
 ### Tech Stack
 
 ```
-Languages:      Python, TypeScript, SQL, Shell
-AI:             Claude Code, Langfuse, OpenAI, Anthropic API
+Languages:      SQL, Python, Shell, TypeScript
+AI:             Claude Code, Langfuse, OpenAI, Anthropic, Gemini
 Data:           ClickHouse, Snowflake, Apache Spark, dbt
 Infrastructure: Docker, AWS, GCP, Azure, CI/CD
 Building with:  Astro, Flask, Next.js, Streamlit
@@ -36,9 +36,9 @@ Building with:  Astro, Flask, Next.js, Streamlit
 
 - Building AI & data infrastructure at ClickHouse
 - Shipping open source tools for AI observability and agent development
-- Writing ["Distilling Data & AI"](https://doneyli.substack.com/) on Substack: practitioner tutorials, not news curation
+- Writing ["Distilling Data & AI"](https://doneyli.substack.com/) on Substack: practitioner frameworks and deep dives, not news curation
 - Speaking circuit: TEDx, SaaS North, McGill, and more
-- Leading Montreal's AI community with monthly events
+- AI Circle Montreal community lead (https://www.ai-circle.org/)
 
 ### Writing & Speaking
 
@@ -53,8 +53,8 @@ I write about what I build and what I learn from enterprise AI deployments. No f
 
 - I'm the only "Doneyli" on the Internet (yes, look it up)
 - Based in Montreal, where great poutine meets great tech
-- TEDx speaker, co-authored an AI book (published 2025)
-- Trilingual: English, Spanish (native), French
+- TEDx speaker, co-authored an AI book (published 2025) 
+- Multi-lingual: Spanish, English, French
 - Constantly learning, constantly building, constantly shipping
 
 ---
