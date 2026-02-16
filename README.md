@@ -38,7 +38,7 @@ Building with:  Astro, Flask, Next.js, Streamlit
 - Shipping open source tools for AI observability and agent development
 - Writing ["Distilling Data & AI"](https://doneyli.substack.com/) on Substack: practitioner frameworks and deep dives, not news curation
 - Speaking circuit: TEDx, SaaS North, McGill, and more
-- [AI Circle](https://www.ai-circle.org/) Montreal community lead
+- [AI Circle](https://www.ai-circle.org/) Community - Montreal Lead
 
 ### Writing & Speaking
 
